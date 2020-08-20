@@ -5,7 +5,7 @@ server:
 
 spring:
     application:
-        name: capital-validation-service
+        name: company-confirmation-service
     kafka:
         bootstrap-servers: 54.39.28.62:9092
         consumer:
