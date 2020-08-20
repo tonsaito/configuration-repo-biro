@@ -1,5 +1,5 @@
 server:
-    port: 5100
+    port: 5200
     error:
         include-stacktrace: never
 
